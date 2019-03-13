@@ -7,6 +7,8 @@ It was issued in 1973 by Produttori Associati and reissued several times by Rico
 ## Concept album
 This is a concept album based on the Protests of 1968; its story-line is about a 30-year-old white-collar worker who chooses to join in the riots after listening to a song about the events of May 1968 in France.
 
+![Mai](http://www.artspecialday.com/9art/wp-content/uploads/2018/05/mai-68-1.jpg)
+
 ## Songs' description
 - Introduzione and Canzone del Maggio set the scene, stimulating the protagonist's desire to join the protests.
 - In La bomba in testa, he daydreams about building a bomb.
