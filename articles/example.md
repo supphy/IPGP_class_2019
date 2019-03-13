@@ -1,40 +1,15 @@
-# Pink Floyd - The Wall
-## Claudio Satriano
-### From [https://en.wikipedia.org/wiki/The_Wall](https://en.wikipedia.org/wiki/The_Wall)
+Storia di un impiegato ("Story of a white-collar worker") is an album released by Fabrizio De André. 
+It was issued in 1973 by Produttori Associati and reissued several times by Ricordi and BMG.
 
-The Wall is the eleventh studio album by English rock band Pink Floyd, released
-in 1979 through Harvest and Columbia Records. Conceived during the In The Flesh
-tour, recording spanned nearly a year, from December 1978 to November 1979, and
-took place in France, England, New York, and Los Angeles. It was produced by Bob
-Erzin, who helped to refine the concept and bridge tensions during recording.
-Some of the outtakes from the recording sessions were used on the band's next
-album, The Final Cut (1983).
+This is a concept album based on the Protests of 1968; its story-line is about a 30-year-old white-collar worker who chooses to join in the riots after listening to a song about the events of May 1968 in France.
 
-![cover](https://upload.wikimedia.org/wikipedia/en/1/13/PinkFloydWallCoverOriginalNoText.jpg)
+Introduzione and Canzone del Maggio set the scene, stimulating the protagonist's desire to join the protests.
+In La bomba in testa, he daydreams about building a bomb.
+In Al ballo mascherato, he attends a masquerade ball, whose attendees are all dressed up as famous characters from movies and comics. The song is intented as a satire of fame and celebrity.
+Sogno numero due is a spoken word piece, where the protagonist imagines being judged in a courtroom by an all-powerful judge, who is the ultimate symbol of power. Notably, De André never recorded a Sogno numero uno (i.e. "Dream number one"), although Sogno n° 1 was used as a title for a 2011 posthumous tribute album by conductor Geoff Westley.
+In Canzone del padre, the dream goes on and the singer imagines himself as his own father, which points out to the protagonist the vacuity of his current life, and further heightens his desire for revenge.
+In Il bombarolo, the protagonist actually builds and plants his bomb; however, in the last verse (where De André suddenly switches from first-person to third-person narrative), the bomb accidentally blows up a newsstand instead of the intended target, and the protagonist is imprisoned.
+Verranno a chiederti del nostro amore is a love song; the protagonist, now behind bars, reassures his woman that his love for her will never end. As the only song in the album which is not actually connected to the overarching story and functions well on its own, it became a hit and De André continued performing it live during his later years, independently from the album.
+In Nella mia ora di libertà, the protagonist is in prison, tells about the trial he underwent and comes to the realization that collective struggle is more effective than what he could accomplish by himself so he and his inmates rebel to the prison authorities and lock up their wardens. The tone of the lyrics is more lightweight than on the rest of the album, in such a way that its last song functions as a comic relief.
 
-A rock opera and a concept record, its story explores Pink, a jaded rockstar
-that bassist Roger Waters modeled after himself and band founder Syd Barrett.
-Pink's life begins with the loss of his father during the Second World War and
-continues with abuse from his schoolteachers, an overprotective mother, and the
-breakdown of his marriage; all contribute to his eventual self-imposed isolation
-from society, symbolised by a wall. The band, who were then struggling with
-personal and financial difficulties, supported the idea. The Wall is the last
-album to feature Pink Floyd as a quartet; keyboardist Richard Wright was fired
-by Waters during production, but stayed on as a salaried musician. The record
-was promoted with three singles: "Another Brick in the Wall, Part 2", "Run Like
-Hell", and "Comfortably Numb", the first of which became the band's only number
-one single in the US. From 1980 to 1981, the group embarked on The Wall Tour,
-which was notable for its elaborate theatrical effects. The concept was later
-adapted into a feature film of the same name, directed by Alan Parker and
-released in 1982.
-
-The Wall received mixed reviews from critics upon its release, many of whom
-found its contents to be overblown and pretentious. Retrospectively, it is
-considered one of the greatest albums of all time, and is one of the most
-well-known concept albums. The record was a commercial success, reaching number
-one in the US (where it stayed for 15 weeks), and number three in the UK. As of
-2018, the album has sold over 24 million copies, the second best-selling in the
-band's catalog, as well as one of the best-selling of all time.
-
-> I think things like 'Comfortably Numb' were the last embers of mine and
-> Roger's ability to work collaboratively together. David Gilmour
+A conpest album should be listened without interruptions among the songs.
