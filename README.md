@@ -2,5 +2,4 @@
 
 Class attended during March, 2019. Prof. Claudio SATRIANO.
 
-# Juve ladra ladra
-
+# Juve incredibilmente ladrona
